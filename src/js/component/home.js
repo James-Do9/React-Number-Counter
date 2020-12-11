@@ -2,8 +2,6 @@ import React from "react";
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
-import { displayCounter } from "./displayCounter.js";
-import { counter } from "./increaseInterval.js";
 import PropType from "prop-types";
 //create your first component
 export function Home(props) {
